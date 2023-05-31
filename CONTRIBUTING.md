@@ -1,6 +1,6 @@
 To contribute to the GitHub repository for learning and collaborating based on the provided syllabus, please follow these rules:
 
-1. Create a new folder/directory with your name, using only lowercase characters and a dash (-) to replace any spaces. For example, if your name is John Doe, the folder name should be "john-doe".
+1. Create a new folder/directory with your name inside `participants` folder, using only lowercase characters and a dash (-) to replace any spaces. For example, if your name is John Doe, the folder name should be "john-doe".
 
 2. Inside your folder/directory, create a folder/directory for each topic covered in the syllabus. Use lowercase characters and dashes (-) to represent spaces. For example, for Week 1, create a folder named "introduction-to-css-and-selectors".
 
