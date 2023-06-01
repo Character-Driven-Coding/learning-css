@@ -1,10 +1,10 @@
 # CSS Beginner Syllabus
 
 **Week 1: Introduction to CSS and Selectors**
-- Introduction to CSS and its role in web development
-- CSS syntax and linking CSS files to HTML documents
-- Understanding CSS selectors and their usage
-- Applying basic styles to HTML elements using selectors
+- [Introduction to CSS and its role in web development](./materials/week-01/01-introduction-to-css-and-its-role-in-web-development.md)
+- [CSS syntax and linking CSS files to HTML documents](./materials/week-01/02-css-syntax-and-linking-css-files-to-html-documents.md)
+- [Understanding CSS selectors and their usage](./materials/week-01/03-understanding-css-selectors-and-their-usage.md)
+- [Applying basic styles to HTML elements using selectors](./materials/week-01/04-applying-basic-styles-to-html-elements-using-selectors.md)
 
 Exercises:
 1. Create an HTML file and link an external CSS file to it. Apply different styles (such as changing background color, font size, and text color) to different HTML elements using selectors.
