@@ -61,6 +61,4 @@ To adjust the margin of an element, use the `margin` property. Like padding, it 
 
 In the character-driven world of code organization, understanding the CSS box model and its components is essential for creating visually appealing web experiences. The box model provides a framework for controlling the layout and spacing of your characters (HTML elements) on the digital stage.
 
-Remember, as software freestyle engineers, we embrace the art of storytelling. By mastering the CSS box model, you gain the ability to position and space your characters effectively, enhancing their presence and impact
-
- on the web page.
+Remember, as software freestyle engineers, we embrace the art of storytelling. By mastering the CSS box model, you gain the ability to position and space your characters effectively, enhancing their presence and impact on the web page.
