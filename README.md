@@ -11,10 +11,10 @@ Exercises:
 2. Use CSS selectors to target specific elements and apply styles to them. Practice using element selectors, class selectors, and ID selectors.
 
 **Week 2: Box Model and Layout**
-- Understanding the CSS box model and its components (margin, padding, border)
-- Applying margin and padding to control spacing
-- Working with widths, heights, and box-sizing property
-- Creating basic layouts using CSS positioning (relative, absolute)
+- [Understanding the CSS box model and its components (margin, padding, border)](./materials/week-02/01-understanding-the-css-box-model-and-its-components-margin-padding-border.md)
+- [Applying margin and padding to control spacing](./materials/week-02/02-applying-margin-and-padding-to-control-spacing.md)
+- [Working with widths, heights, and box-sizing property](./materials/week-02/03-working-with-widths-heights-and-box-sizing-property.md)
+- [Creating basic layouts using CSS positioning (relative, absolute)](./materials/week-02/04-creating-basic-layouts-using-css-positioning-relative-absolute.md)
 
 Exercises:
 1. Create a box with specified width, height, margin, padding, and border. Experiment with different values and observe how they affect the box layout.
